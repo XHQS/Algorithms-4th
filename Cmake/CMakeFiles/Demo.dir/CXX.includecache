@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/run/media/xhqs/38DCF932DCF8EAD0/Studying documents/学习笔记/算法（第四版）/第一章/Cmake/main.cpp
+iostream
+-
+new
+-
+string
+-
+prac_1_3_31.hpp
+/run/media/xhqs/38DCF932DCF8EAD0/Studying documents/学习笔记/算法（第四版）/第一章/Cmake/prac_1_3_31.hpp
+
+/run/media/xhqs/38DCF932DCF8EAD0/Studying documents/学习笔记/算法（第四版）/第一章/Cmake/prac_1_3_31.hpp
+iostream
+-
+

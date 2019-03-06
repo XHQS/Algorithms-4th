@@ -1,0 +1,3 @@
+/run/media/xhqs/38DCF932DCF8EAD0/Studying documents/学习笔记/算法（第四版）/第一章/Cmake/CMakeFiles/rebuild_cache.dir
+/run/media/xhqs/38DCF932DCF8EAD0/Studying documents/学习笔记/算法（第四版）/第一章/Cmake/CMakeFiles/Demo.dir
+/run/media/xhqs/38DCF932DCF8EAD0/Studying documents/学习笔记/算法（第四版）/第一章/Cmake/CMakeFiles/edit_cache.dir
